@@ -128,6 +128,24 @@ layout: AzurePortalPage
                      </div>
                   </div>
                </div>
+               <!--<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                  	<div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                  		<div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                  			<label class="date">October 21, 2015</label>
+                  			<br />
+                  			<label>
+                  				<mscom:link disablebitracking="false" target="_blank" text="Microsoft Office 365 enhances SOC audit reports with new trust principles"
+                  				href="https://blogs.office.com/2015/10/21/announcing-the-enhanced-office-365-soc-audit-reports-with-new-trust-principles/"></mscom:link>
+                  			</label>
+                  			<p>Office 365 has added two new trust principles,
+                  				<mscom:link disablebitracking="false" target="_blank" text="Processing Integrity" href="http://www.aicpa.org/InterestAreas/InformationTechnology/Resources/SOC/TrustServices/Pages/Trust%20Services%20Principles—An%20Overview.aspx"></mscom:link> and
+                  				<mscom:link disablebitracking="false" target="_blank" text="Confidentiality" href="http://www.aicpa.org/InterestAreas/InformationTechnology/Resources/SOC/TrustServices/Pages/Trust%20Services%20Principles—An%20Overview.aspx"></mscom:link>, to its Service Organization Controls (SOC) audit reports. These build on the established Security
+                  				and Availability trust principles.</p>
+                  		</div>
+                  	</div>
+                  </div>
+                  </div>-->
                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
