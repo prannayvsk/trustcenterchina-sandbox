@@ -5705,7 +5705,7 @@ body {
     overflow-x: hidden
 }
 p {
-    font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+    font-family: wf_segoe-ui_normal, 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
     font-size: 18px;
     color: #000;
     margin-bottom: 10px
