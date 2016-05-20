@@ -9,7 +9,7 @@
           "**/obj/**",
           "trustcenter/**"
         ],
-        "src": null,
+        "src": "trustcenter",
         "dest": null
       }
     ],
@@ -24,7 +24,7 @@
           "trustcenter/**",
           "_themes/DocPacker/**"
         ],
-        "src": null,
+        "src": "trustcenter",
         "dest": null
       }
     ],
