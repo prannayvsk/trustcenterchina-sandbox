@@ -134,7 +134,7 @@ layout: TrustCenterPage
                <br />
                <p>Microsoft Azure and Office 365 operated by 21Vianet are separate instances of cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure and Office 365 technology that powers Microsoft's global cloud service with comparable service levels to customers. 
                </p>
-               <p>As a customer of Microsoft Azure and Office 365 operated by 21Vianet, you get:
+               <p>As a customer of Microsoft Azure and Office 365 operated by 21Vianet, you can get:
                </p>
                <p>•	A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.
                </p> 
