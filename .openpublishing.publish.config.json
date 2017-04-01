@@ -7,15 +7,17 @@
       "build_source_folder": "trustcenter",
       "build_output_subfolder": "trustcenter",
       "locale": "en-us",
-      "version": 0,
+      "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs"
+      "build_entry_point": "docs",
+      "version": 0
     }
   ],
-  "skip_source_output_uploading": false
+  "skip_source_output_uploading": false,
+  "need_generate_pdf_url_template": false
 }
